@@ -1,0 +1,599 @@
+{
+  "data": {
+    "columnFields": [
+      "original_price_bin"
+    ], 
+    "column_totals": [
+      {
+        "brand_count": 5, 
+        "original_price_bin": "0-50", 
+        "unique_product_count": 3343, 
+        "unique_style_count": 1143
+      }, 
+      {
+        "brand_count": 4, 
+        "original_price_bin": "101-150", 
+        "unique_product_count": 348, 
+        "unique_style_count": 208
+      }, 
+      {
+        "brand_count": 4, 
+        "original_price_bin": "151-200", 
+        "unique_product_count": 90, 
+        "unique_style_count": 70
+      }, 
+      {
+        "brand_count": 4, 
+        "original_price_bin": "201-250", 
+        "unique_product_count": 37, 
+        "unique_style_count": 21
+      }, 
+      {
+        "brand_count": 2, 
+        "original_price_bin": "251-300", 
+        "unique_product_count": 10, 
+        "unique_style_count": 10
+      }, 
+      {
+        "brand_count": 1, 
+        "original_price_bin": "301-350", 
+        "unique_product_count": 5, 
+        "unique_style_count": 4
+      }, 
+      {
+        "brand_count": 2, 
+        "original_price_bin": "351-400", 
+        "unique_product_count": 4, 
+        "unique_style_count": 3
+      }, 
+      {
+        "brand_count": 1, 
+        "original_price_bin": "401-450", 
+        "unique_product_count": 2, 
+        "unique_style_count": 2
+      }, 
+      {
+        "brand_count": 1, 
+        "original_price_bin": "451-500", 
+        "unique_product_count": 4, 
+        "unique_style_count": 3
+      }, 
+      {
+        "brand_count": 5, 
+        "original_price_bin": "51-100", 
+        "unique_product_count": 1747, 
+        "unique_style_count": 803
+      }, 
+      {
+        "brand_count": 1, 
+        "original_price_bin": "551-600", 
+        "unique_product_count": 2, 
+        "unique_style_count": 1
+      }, 
+      {
+        "brand_count": 1, 
+        "original_price_bin": "651-700", 
+        "unique_product_count": 2, 
+        "unique_style_count": 2
+      }
+    ], 
+    "columns": [
+      {
+        "original_price_bin": "0-50"
+      }, 
+      {
+        "original_price_bin": "51-100"
+      }, 
+      {
+        "original_price_bin": "101-150"
+      }, 
+      {
+        "original_price_bin": "151-200"
+      }, 
+      {
+        "original_price_bin": "201-250"
+      }, 
+      {
+        "original_price_bin": "251-300"
+      }, 
+      {
+        "original_price_bin": "301-350"
+      }, 
+      {
+        "original_price_bin": "351-400"
+      }, 
+      {
+        "original_price_bin": "401-450"
+      }, 
+      {
+        "original_price_bin": "451-500"
+      }, 
+      {
+        "original_price_bin": "501-550"
+      }, 
+      {
+        "original_price_bin": "551-600"
+      }, 
+      {
+        "original_price_bin": "601-650"
+      }, 
+      {
+        "original_price_bin": "651-700"
+      }, 
+      {
+        "original_price_bin": "701-750"
+      }, 
+      {
+        "original_price_bin": "751-800"
+      }, 
+      {
+        "original_price_bin": "801-850"
+      }, 
+      {
+        "original_price_bin": "851-900"
+      }, 
+      {
+        "original_price_bin": "901-950"
+      }, 
+      {
+        "original_price_bin": "951-1000"
+      }, 
+      {
+        "original_price_bin": "1000+"
+      }
+    ], 
+    "id": "price-architecture", 
+    "marks": [
+      {
+        "brand_count": 4, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "101-150", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 94, 
+        "unique_style_count": 53
+      }, 
+      {
+        "brand_count": 3, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "151-200", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 35, 
+        "unique_style_count": 28
+      }, 
+      {
+        "brand_count": 4, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "201-250", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 21, 
+        "unique_style_count": 16
+      }, 
+      {
+        "brand_count": 2, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "251-300", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 8, 
+        "unique_style_count": 8
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "301-350", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 5, 
+        "unique_style_count": 4
+      }, 
+      {
+        "brand_count": 2, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "351-400", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 4, 
+        "unique_style_count": 3
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "401-450", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 2, 
+        "unique_style_count": 2
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "451-500", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 4, 
+        "unique_style_count": 3
+      }, 
+      {
+        "brand_count": 4, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "51-100", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 168, 
+        "unique_style_count": 91
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "551-600", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 2, 
+        "unique_style_count": 1
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "original_price_bin": "651-700", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 2, 
+        "unique_style_count": 2
+      }, 
+      {
+        "brand_count": 4, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Pants & Leggings", 
+        "original_price_bin": "0-50", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 94, 
+        "unique_style_count": 39
+      }, 
+      {
+        "brand_count": 2, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Pants & Leggings", 
+        "original_price_bin": "101-150", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 56, 
+        "unique_style_count": 36
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Pants & Leggings", 
+        "original_price_bin": "151-200", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 16, 
+        "unique_style_count": 11
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Pants & Leggings", 
+        "original_price_bin": "201-250", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 2, 
+        "unique_style_count": 1
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Pants & Leggings", 
+        "original_price_bin": "251-300", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 2, 
+        "unique_style_count": 2
+      }, 
+      {
+        "brand_count": 5, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Pants & Leggings", 
+        "original_price_bin": "51-100", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 438, 
+        "unique_style_count": 232
+      }, 
+      {
+        "brand_count": 5, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shirts & Tops", 
+        "original_price_bin": "0-50", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 2656, 
+        "unique_style_count": 902
+      }, 
+      {
+        "brand_count": 3, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shirts & Tops", 
+        "original_price_bin": "101-150", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 182, 
+        "unique_style_count": 107
+      }, 
+      {
+        "brand_count": 2, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shirts & Tops", 
+        "original_price_bin": "151-200", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 35, 
+        "unique_style_count": 28
+      }, 
+      {
+        "brand_count": 2, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shirts & Tops", 
+        "original_price_bin": "201-250", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 13, 
+        "unique_style_count": 3
+      }, 
+      {
+        "brand_count": 5, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shirts & Tops", 
+        "original_price_bin": "51-100", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 700, 
+        "unique_style_count": 298
+      }, 
+      {
+        "brand_count": 5, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shorts", 
+        "original_price_bin": "0-50", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 477, 
+        "unique_style_count": 153
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shorts", 
+        "original_price_bin": "101-150", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 13, 
+        "unique_style_count": 11
+      }, 
+      {
+        "brand_count": 4, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shorts", 
+        "original_price_bin": "51-100", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 357, 
+        "unique_style_count": 157
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Sleepwear Underwear & Intimates", 
+        "original_price_bin": "0-50", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 96, 
+        "unique_style_count": 42
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Sleepwear Underwear & Intimates", 
+        "original_price_bin": "51-100", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 29, 
+        "unique_style_count": 10
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Dresses", 
+        "original_price_bin": "0-50", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 12, 
+        "unique_style_count": 8
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Dresses", 
+        "original_price_bin": "101-150", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 2, 
+        "unique_style_count": 1
+      }, 
+      {
+        "brand_count": 2, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Dresses", 
+        "original_price_bin": "51-100", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 13, 
+        "unique_style_count": 6
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Skirts & Skorts", 
+        "original_price_bin": "0-50", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 8, 
+        "unique_style_count": 1
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Skirts & Skorts", 
+        "original_price_bin": "101-150", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 1, 
+        "unique_style_count": 1
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Skirts & Skorts", 
+        "original_price_bin": "151-200", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 3, 
+        "unique_style_count": 2
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Skirts & Skorts", 
+        "original_price_bin": "51-100", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 42, 
+        "unique_style_count": 13
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Tracksuits", 
+        "original_price_bin": "151-200", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 1, 
+        "unique_style_count": 1
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Tracksuits", 
+        "original_price_bin": "201-250", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 1, 
+        "unique_style_count": 1
+      }
+    ], 
+    "rowFields": [
+      "level1_id", 
+      "level2_id", 
+      "country_name", 
+      "retailer"
+    ], 
+    "row_totals": [
+      {
+        "brand_count": 5, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Outerwear, Coats, Jackets", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 345, 
+        "unique_style_count": 210
+      }, 
+      {
+        "brand_count": 5, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Pants & Leggings", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 608, 
+        "unique_style_count": 321
+      }, 
+      {
+        "brand_count": 5, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shirts & Tops", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 3586, 
+        "unique_style_count": 1334
+      }, 
+      {
+        "brand_count": 5, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Shorts", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 847, 
+        "unique_style_count": 319
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Sleepwear Underwear & Intimates", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 125, 
+        "unique_style_count": 52
+      }, 
+      {
+        "brand_count": 2, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Dresses", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 27, 
+        "unique_style_count": 15
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Skirts & Skorts", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 54, 
+        "unique_style_count": 17
+      }, 
+      {
+        "brand_count": 1, 
+        "country_name": "USA", 
+        "level1_id": "Clothing", 
+        "level2_id": "Tracksuits", 
+        "retailer": "Webshop1", 
+        "unique_product_count": 2, 
+        "unique_style_count": 2
+      }
+    ], 
+    "total": [
+      {
+        "brand_count": 5, 
+        "dummy_value": "1", 
+        "unique_product_count": 5594, 
+        "unique_style_count": 2263
+      }
+    ]
+  }, 
+  "elapsed_time_ms": 4061.047, "msg": "8 data rows successfully retrieved", 
+  "query_seq": 3
+}
